@@ -8,11 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-        primary: '#FF8C37',
-        secondary: '#FF3366',
+      fontFamily: {
+        'bebas-neue': ['var(--font-bebas-neue)'],
+        'poppins': ['var(--font-poppins)'],
+        'roboto': ['var(--font-roboto)'],
       },
     },
   },
