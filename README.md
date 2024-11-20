@@ -56,7 +56,7 @@ npm install
 
 ### Blog
 - Display five latest blog posts from `/data/blogPosts.ts`
-- Implement dynamic routing for individual blog posts
+- Implement dynamic routing for individual blog posts when clicked on in the blogs page
 - Full blog post display on click
 
 ### Buy
