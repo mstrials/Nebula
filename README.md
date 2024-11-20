@@ -43,8 +43,6 @@ npm install
 ## Project Resources
 - Assets provided in `/public` folder
 - Blog posts data in `/data`
-- Custom Tailwind classes:
-  - 'primary' and 'secondary' for color gradients
 - Fonts:
   - `font-bebas-neue` for headings
   - `font-poppins` for sub-headings
