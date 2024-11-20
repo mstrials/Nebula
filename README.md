@@ -24,12 +24,14 @@ Maintain a clear separation of concerns throughout the project:
 
 ## Setup Instructions
 
-1. Clone the starter repo: [Nebula](https://github.com/mstrials/Nebula)
-2. Open in your code editor (VS Code recommended) and run:
+1. Create a GitHub account (if you don’t already have one)
+2. Create a Vercel account (if you don’t already have one)
+3. Clone the starter repo: [Nebula](https://github.com/mstrials/Nebula)
+4. Open in your code editor (VS Code recommended) and run:
 ```bash
 npm install
 ```
-3. Create `.env.local` file and add:
+5. Create `.env.local` file and add:
    - Stripe keys (provided in initial email)
    - Google Maps API key (`NEXT_PUBLIC_GOOGLE_MAPS_API_KEY`)
      - Retrieve from Google Cloud Console > Keys & Credentials
@@ -65,31 +67,14 @@ npm install
 - Include checkout form
 - Implement Stripe checkout page routing on form submission
 
-## Development Server
 
-Run the development server:
+## Submission Guidelines
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Once completed:
+1. Upload the project to your own GitHub account
+2. Create a Vercel project to host your app
+3. Respond to the initial email with:
+   - Link to your GitHub repository
+   - Your Vercel domain
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Learn Next.js](https://nextjs.org/learn)
-
-## Deploy on Vercel
-
-Deploy using the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
