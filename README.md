@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Welcome to the trial task for Marketing Sweet. You will build a demo app that has a home page with an about us and blogs page. At the bottom there will be a contact button that displays a popup with a contact form and a buy now button that links to the /buy page. On this page you will connect Stripe and make successful test transactions.
 
+The tech stack is Next.js 14, Tailwind CSS, and Stripe.
+
 ## Naming Conventions
 
 Please adhere to the following naming conventions:
