@@ -29,7 +29,7 @@ Maintain a clear separation of concerns throughout the project:
 1. Create a GitHub account (if you don’t already have one)
 2. Create a Vercel account (if you don’t already have one)
 3. Clone the starter repo: [Nebula](https://github.com/mstrials/Nebula)
-4. Open in your code editor (VS Code recommended) and run:
+4. Open in your code editor (Cursor AI recommended) and run:
 ```bash
 npm install
 ```
