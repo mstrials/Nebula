@@ -79,7 +79,7 @@ npm install
 
 ## Submission Guidelines
 
-Once completed:
+You'll have 3 days to complete the project. Once completed:
 1. Upload the project to your own GitHub account
 2. Create a Vercel project to host your app
 3. Respond to the initial email with:
