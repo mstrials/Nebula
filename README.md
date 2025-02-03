@@ -34,8 +34,8 @@ Maintain a clear separation of concerns throughout the project:
 npm install
 ```
 5. Create `.env.local` file and add:
-   - Stripe keys (provided in initial email)
-   - Google Maps API key (`NEXT_PUBLIC_GOOGLE_MAPS_API_KEY`)
+   - Stripe keys (Make your own account for test purchases)
+   - Google Maps API key (Make your own account and use the free quota)
      - Retrieve from Google Cloud Console > Keys & Credentials
      - Create Project and copy API key
      - Leave API unrestricted by selecting all in API list
