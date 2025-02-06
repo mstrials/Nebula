@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the trial task for Marketing Sweet. You will build a demo app that has a home page with an about us and blogs page. At the bottom there will be a contact button that displays a popup with a contact form and a buy now button that links to the /buy page. On this page you will connect Stripe and make successful test transactions. Ensure the app is responsive and works on mobile devices. All buttons should follow the gradient Tailwind style bg-gradient-to-r from-[#FF8C37] to-[#FF3366]. Set this as a custom theme colour in tailwind.config.ts.
+Welcome to the trial task for Marketing Sweet. You will build a demo app that has a home page with an about us and blogs page. At the bottom there will be a contact button that displays a popup with a contact form and a buy now button that links to the /buy page. On this page you will connect Stripe and make successful test transactions. Ensure the app is responsive and works on mobile devices. All buttons should follow the gradient Tailwind style bg-gradient-to-r from-[#FF8C37] to-[#FF3366]. Set this as a custom theme colour in tailwind.config.ts. Refer to the 'screens' folder in the root of the project for screenshots of how the app should look.
 
 The tech stack is Next.js 14 with the app router, TypeScript, Tailwind CSS, and Stripe.
 
@@ -77,7 +77,7 @@ npm install
 
 ## Submission Guidelines
 
-You'll have 3 days to complete the project. Once completed:
+You'll have 24 hours from receiving this task to complete it. Once completed:
 1. Upload the project to your own GitHub account
 2. Create a Vercel project to host your app
 3. Respond to the initial email with:
